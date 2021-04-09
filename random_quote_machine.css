@@ -45,11 +45,25 @@ position: absolute;
 margin-top: 120px;
 margin-left: 35px;
 }
-.tweet-button{
-  position: absolute; 
-  margin-top: 120px;
+#tweet-button{
+background: #4c577c;
+width: 50px;
+text-align: center;
+font-family:"Helvetica Neue", Roboto, "Segoe UI", Calibri, sans-serif;
+font-size: 12px;
+border-radius: 3px;
+border: none;
+position: absolute; 
+margin-top: 120px;
 }
-.fb-share-button{
-  position: absolute; 
-  margin-top: 116px;
+#fb-share-button{
+background-color: #4c577c;
+width: 50px;
+text-align: center;
+font-family:"Helvetica Neue", Roboto, "Segoe UI", Calibri, sans-serif;
+font-size: 12px;
+border-radius: 3px;
+border: none;
+position: absolute; 
+margin-top: 120px;
 }
